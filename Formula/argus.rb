@@ -1,8 +1,8 @@
 class Argus < Formula
   desc "Security gateway for AI agent and MCP package installation"
   homepage "https://github.com/argusgate/argus"
-  url "https://github.com/argusgate/argus/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "295dcb9326db927edf4f77cef3646bf5435699b4ecc73df1cb0a665d81ba1cca"
+  url "https://github.com/argusgate/argus/archive/refs/tags/v0.1.1.tar.gz"
+  sha256 "2abb16c9f49d147f7eaee7793d88113acbd01c9dfa0260137afdcd4ec00c9e33"
   license "AGPL-3.0-only"
 
   depends_on "go" => :build
